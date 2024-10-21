@@ -1,4 +1,4 @@
-# ProyectoCines_JDBC
+# Cines
 #### Proyecto desarrollado como práctica de un ciclo formativo superior de Desarrollo de Aplicaciones Multiplataforma.<br/>
 <br/>
 
